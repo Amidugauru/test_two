@@ -1,3 +1,3 @@
-ls -a 
-pause 10
+\ls -a 
+sleep 10
 df -h
